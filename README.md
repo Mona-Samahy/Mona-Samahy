@@ -2,6 +2,11 @@
  Skilled data analyst with a strong ability to interpret and transform data into actionable insights. Proficient in statistical analysis, data 
 visualization, and data-driven decision-making. Experienced in using analytical tools and programming languages
 
+🔭 I’m currently a Data analyst
+
+🌱 I’m currently learning Advanced Data data science 
+
+🤝 I’m looking for help with DevOps
  <h2>Professional Experience</h2>
  
   <h1> Sales & Data entry at Digi Sail</h1>
