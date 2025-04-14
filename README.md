@@ -3,7 +3,8 @@
 visualization, and data-driven decision-making. Experienced in using analytical tools and programming languages
 
  <h2>Professional Experience</h2>
- Sales & Data entry at Digi Sail
+ 
+  <h1> Sales & Data entry at Digi Sail</h1>
  I have worked in sales and communicated with many clients to learn important details about their 
  projects and provide solutions to improve them.
  
