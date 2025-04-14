@@ -6,7 +6,6 @@ visualization, and data-driven decision-making. Experienced in using analytical 
 
 🌱 I’m currently learning Advanced Data data science 
 
-🤝 I’m looking for help with DevOps
  <h2>Professional Experience</h2>
  
   <h1> Sales & Data entry at Digi Sail</h1>
