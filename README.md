@@ -24,12 +24,6 @@ by importance, and presenting them.
 <!--
 **Mona-Samahy/Mona-Samahy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-  Connect with Me
+\  Connect with Me
   https://linkedin.com/in/mona-mostafa-9a82b927b
+
