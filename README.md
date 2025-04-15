@@ -6,20 +6,20 @@ visualization, and data-driven decision-making. Experienced in using analytical 
 
 🌱 I’m currently learning Advanced Data data science 
 
- <h2>Professional Experience</h2>
+ <h1>Professional Experience</h1>
  
-  <h1> Sales & Data entry at Digi Sail</h1>
+  <h2> Sales & Data entry at Digi Sail</h2>
  I have worked in sales and communicated with many clients to learn important details about their 
  projects and provide solutions to improve them.
  
- <h1>Data entry</h1>
+ <h2>Data entry</h2>
  I gathered data for a real estate company by identifying the projects they had undertaken, prioritizing them 
 by importance, and presenting them.
 
-<h1>ML Internship at SpreadTech Solutions</h1> 
+<h2>ML Internship at SpreadTech Solutions</h2> 
  Assisting them in undertaking projects and gaining experience.
  
-<h1> Freelancer as frontend developer</h1>
+<h2> Freelancer as frontend developer</h2>
  Design and implementation of a website for a construction company
  
 ## 🤝 Connect With Me
