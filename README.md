@@ -21,9 +21,18 @@ by importance, and presenting them.
  
 <h1> Freelancer as frontend developer</h1>
  Design and implementation of a website for a construction company
-<!--
-**Mona-Samahy/Mona-Samahy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+## 🤝 Connect With Me
 
-\  Connect with Me
-  https://linkedin.com/in/mona-mostafa-9a82b927b
-
+<div align="center">
+    <a href="[https://www.linkedin.com/in/fatma-alaa-h3278/](https://linkedin.com/in/mona-mostafa-9a82b927b)" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+    
+  <a href="[https://www.instagram.com/fatmaahhassan/](https://www.instagram.com/monamostafa277/)">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+  <a href="mailto:fatma.alaa.hamed@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
